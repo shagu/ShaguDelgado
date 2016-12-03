@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cff33ffccShagu|cffb048f8Delgado
+## Author: Eric (Shagu) Mauser, 2015
+## Notes: PURPLE RAIN! PUUURPLE RAIN
+## Version: 0.1
+
+ShaguDelgado.lua
