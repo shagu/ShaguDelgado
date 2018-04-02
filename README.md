@@ -2,7 +2,7 @@
 
 A small addon to replace some elements ingame with pure shiny purple awesomenes! Made for a person on one of my former realms who **really** likes the color purple.
 
-![preview](https://i.imgur.com/A8aiK6a.jpg)
+![screenshot](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguDelgado/screenshot.jpg)
 
 ## Installation
 1. Download **[Latest Version](https://github.com/shagu/ShaguDelgado/archive/master.zip)**
